@@ -4,7 +4,6 @@
 * **Tên học phần:** Công nghệ Java
 * **Mã học phần:** IT3242
 * **Khoa:** Công nghệ Thông tin
-* **Trường:** Đại học Công nghệ Đông Á (EAUT)
 
 ## 🛠️ Công Nghệ & Môi Trường Sử Dụng
 * **Ngôn ngữ lập trình:** Java SE (JDK 25 )
